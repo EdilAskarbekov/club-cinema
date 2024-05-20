@@ -1,0 +1,103 @@
+.footerMain{
+    max-width: 1325px;
+    margin: auto;
+    padding: 0 30px 0;
+}
+.contackt{
+    text-align: center;
+}
+.contackt button{
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Gotham Pro';
+    color: rgba(33, 14, 9, 1);
+    background-color: rgb(255, 255, 255, 1);
+    width: 18.7%;
+    height: 38px;
+    border-radius: 5px;
+}
+.contackt h2 {
+    font-size: 40px;
+    font-weight: 400;
+    font-family: 'Gotham Pro';
+    color: rgba(255, 255, 255, 1);
+    margin-top: 20px;
+}
+.footerWrap{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.footerAdress{
+    width: 31%;
+    padding: 40px 70px 30px 70px ;
+    background-color: rgba(213, 98, 29, 0.1);
+    border: 2px solid rgba(213, 98, 29, 1);
+}
+.footerAdress h2{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Gotham Pro';
+    color: rgba(255, 255, 255, 1);
+}
+.footerAdress p{
+    font-family: 'Stolzl';
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+}
+.AdressOne{
+    border-bottom: 2px solid rgba(255, 255, 255, 1);
+    padding-bottom: 30px;
+}
+.AdressOne p:nth-child(2){
+    margin-top: 20px;
+}
+.AdressOne p:nth-child(4){
+    margin-top: 20px;
+}
+.AdressOne p:nth-child(6){
+    margin-top: 20px;
+}
+.AdressOne h2:nth-child(3){
+    margin-top: 20px;
+}
+.AdressOne h2:nth-child(5){
+    margin-top: 20px;
+}
+.adessTwo h2:nth-child(1){
+    margin-top: 25px;
+}
+.adessTwo h2:nth-child(3){
+    margin-top: 20px;
+}
+.adessTwo p:nth-child(2){
+    margin-top: 20px;
+}
+.adessTwo p:nth-child(4){
+    margin-top: 20px;
+}
+.footerMap{
+    width: 67%;
+    border: 2px solid rgba(213, 98, 29, 1);
+}
+.mapFooter{
+    width: 100%;
+    height: 100%;
+    top: 0;left: 0;right: 0;bottom: 0;
+}
+.footerEnd{
+    border-top: 2px solid rgba(255, 255, 255, 1) ;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.footerEnd p{
+    font-family: 'Stolzl';
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+
+}

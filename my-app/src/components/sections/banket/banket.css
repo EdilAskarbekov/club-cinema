@@ -1,0 +1,75 @@
+.banketMain{
+    max-width: 1325px;
+    padding: 0 30px 0;
+    margin: auto;
+}
+.banketWrap{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 90px;
+}
+.banketThree{
+    text-align: center;
+    width: 32%;
+}
+.banketThree h2{
+    font-size: 40px;
+    font-weight: 400;
+    font-family: 'Gotham Pro';
+    color: rgba(255, 255, 255, 1);
+    margin-top: 30px;
+}
+.banketThree p{
+    font-family: 'Stolzl';
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+.banretOne{
+    text-align: center;
+    width: 32%;
+}
+.banretOne h2{
+    font-size: 40px;
+    font-weight: 400;
+    font-family: 'Gotham Pro';
+    color: rgba(255, 255, 255, 1);
+    margin-top: 30px;
+}
+.banretOne p{
+    font-family: 'Stolzl';
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+.banketTwo{
+    width: 32%;
+}
+.banketTwo img{
+    width: 100%;
+    height: 100%;
+    
+}
+.banketBtn{
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Gotham Pro';
+    color: rgba(33, 14, 9, 1);
+    background-color: rgb(255, 255, 255, 1);
+    width: 70%;
+    height: 38px;
+    border-radius: 5px;
+}
+.podrobnee{
+    border: 2px solid rgba(213, 98, 29, 1);
+    width: 156px;
+    height: 51px;
+    font-family: 'Stolzl';
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 30px;
+    bottom: 0;
+    color: rgba(255, 255, 255, 1);
+}
